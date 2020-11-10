@@ -12,7 +12,9 @@ Zapraszam!
 
 Jestem 20-letnią mieszkanką Straszyna- małej miejscowości obok Gdańska. Studiuję Informatykę na Uniwersytecie Gdańskim (pierwszy rok) oraz Elektroradiologię na Gdańskim Uniwersytecie Medycznym (drugi rok). Mam dwa przepiękne czarne koty i dwa duże psy. Wolny czas podczas pandemii spędzam z chłopakiem chodząc na długie spacery po naszej pięknej okolicy albo grając w gry komputerowe.
 
-![image].(src)
+![https://github.com/osudol/osudol.github.io/blob/main/123958147_421754555877508_1924752278949599921_n.jpg].(src)
+![].(src)
+![].(src)
 
 ### To co lubię najbardiej
 
