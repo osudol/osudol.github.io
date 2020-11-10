@@ -18,13 +18,13 @@ Ulubiony kolor: Ciemna zieleń
 
 Ulubiona liczba: 9
 
-Ulubiony film: _Labirynt Fauna -reż. Guillermo del Toro_
+Ulubiony film: _Labirynt Fauna - reż. Guillermo del Toro_
 
-Ulubiony serial: _Dom z papieru -twórczości Alex'a Pina_
+Ulubiony serial: _Dom z papieru - twórczości Alex'a Pina_
 
-ulubiona książka: Pacjentka -autorstwa Alexa'a Michaelidesa
+ulubiona książka: _Pacjentka - autorstwa Alexa'a Michaelidesa_
 
-Ulubiona piosenka: Leave a Light On -Tom Walker
+Ulubiona piosenka: _Leave a Light On - Tom Walker_
 
 Ulubione zwierzątko: Kot
 
