@@ -18,9 +18,9 @@ Ulubiony kolor: Ciemna zieleń
 
 Ulubiona liczba: 9
 
-Ulubiony film: Labirynt Fauna -reż. Guillermo del Toro
+Ulubiony film: _Labirynt Fauna -reż. Guillermo del Toro_
 
-Ulubiony serial: Dom z papieru -twórczości Alex'a Pina
+Ulubiony serial: _Dom z papieru -twórczości Alex'a Pina_
 
 ulubiona książka: Pacjentka -autorstwa Alexa'a Michaelidesa
 
