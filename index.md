@@ -1,21 +1,22 @@
-## Cześć wszystkim!
+## Przywitanie
 
-Cześć, mam na imię Ola! 
+Cześć, mam na imię Ola!
+Chciałabym opowiedzieć Ci trochę o sobie.
+Zapraszam!
 
-You can use the [editor on GitHub](https://github.com/osudol/osudol.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Podst inf o mn
 
-# Header 1
-## Header 2
-### Header 3
+Jestem 20-letnią mieszkanką Straszyna- małej miejscowości obok Gdańska. Studiuję Informatykę na Uniwersytecie Gdańskim (pierwszy rok), oraz Elektroradiologię na Gdańskim Uniwersytecie Medycznym (drugi rok). Mam dwa przepiękne czarne koty i dwa duże psy. Wolny czas podczas pandemii spędzam z chłopakiem chodząc na długie spacery po naszej pięknej okolicy albo grając w gry na komputerze.
+
+### To co lubię najbardiej
+
+# Ulubiona piosenka
+## Ulubiony film
+### Ulubiony serial
 
 - Bulleted
 - List
