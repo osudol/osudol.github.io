@@ -2,7 +2,7 @@
 
 Cześć, mam na imię Ola!
 Chciałabym opowiedzieć Ci trochę o sobie.
-Zapraszam!
+Zapraszam! 🖐🏻
 
 
 ### Kilka słów o mnie
