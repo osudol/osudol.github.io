@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Cześć wszystkim!
+
+Cześć, mam na imię Ola! 
 
 You can use the [editor on GitHub](https://github.com/osudol/osudol.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
