@@ -11,7 +11,7 @@ Jestem 20-letnią mieszkanką Straszyna- małej miejscowości obok Gdańska. Stu
 
 
 
-### To co lubię najbardiej
+### Moje ulubione rzeczy
 
 Ulubiony kolor: _Ciemna zieleń_
 
@@ -21,7 +21,7 @@ Ulubiony film: _Labirynt Fauna - reż. Guillermo del Toro_
 
 Ulubiony serial: _Dom z papieru - twórczości Alex'a Pina_
 
-ulubiona książka: _Pacjentka - autorstwa Alexa'a Michaelidesa_
+Ulubiona książka: _Pacjentka - autorstwa Alexa'a Michaelidesa_
 
 Ulubiona piosenka: _Leave a Light On - Tom Walker_
 
